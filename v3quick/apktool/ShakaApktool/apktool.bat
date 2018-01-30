@@ -1,0 +1,1 @@
+java -jar ShakaApktool_3.0.0-master-f1e0a9f-20160905-release.jar %*
